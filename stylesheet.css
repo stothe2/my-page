@@ -1,0 +1,31 @@
+body {
+    font-family: 'Coming Soon', cursive;
+    <!--'Open Sans', sans-serif; 'Coming Soon', cursive; 'League Script', cursive-->
+    padding-top: 50px;
+}
+
+#intro {
+    padding: 20% 0% 7% 0%;
+    background-color: white;
+    position: relative;    
+}
+
+.intro-container {
+    text-align: center;
+    color: #717171;
+}
+
+h1 {
+    font-size: 24px;
+    font-weight:400;
+}
+
+h2 {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.link {
+    text-decoration: none;
+    color: #717171;
+}
